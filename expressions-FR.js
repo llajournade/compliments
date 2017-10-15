@@ -3,7 +3,7 @@
 * listExpressionH et listExpressionF
 **/
 var listExpressionH = ["Le plus beau langage du monde est celui que tes yeux utilisent.",
-""Ahh, ton sourire me renverse…",
+"Ahh, ton sourire me renverse…",
 "Ton sourire pourrait éclairer le fond de l’océan.",
 "Rodin n’aurait pas fait mieux que Toi.",
 "Je t’admire.",
